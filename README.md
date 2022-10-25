@@ -1,2 +1,0 @@
-# datacamp
-Data Camp Projects
